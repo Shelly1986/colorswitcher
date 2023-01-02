@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(236, 28, 184);
+  color: white;
+}
+
+.btns {
+  height: 70px;
+  width: 70px;
+  margin: 20px;
+  border-radius: 50%;
+}
+
+#red {
+  background-color: red;
+}
+
+#green{
+  background-color: green;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#black{
+  background-color: black;
+}
+
+#purple{
+  background-color: purple;
+}
